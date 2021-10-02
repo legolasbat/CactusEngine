@@ -1,0 +1,3 @@
+[submodule "CactusEngine/thirdParty/spdlog"]
+	path = CactusEngine/thirdParty/spdlog
+	url = https://github.com/gabime/spdlog
